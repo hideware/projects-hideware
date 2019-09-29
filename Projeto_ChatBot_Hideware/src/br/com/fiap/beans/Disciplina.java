@@ -35,10 +35,10 @@ public class Disciplina {
 	public void setDataInicio(String dataInicio) {
 		this.dataInicio = dataInicio;
 	}
-	public String getDataFim() {
+	public String getDataTermino() {
 		return dataTermino;
 	}
-	public void setDataFim(String dataTermino) {
+	public void setDataTermino(String dataTermino) {
 		this.dataTermino = dataTermino;
 	}
 }

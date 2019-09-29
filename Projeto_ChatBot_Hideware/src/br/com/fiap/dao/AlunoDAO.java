@@ -22,7 +22,7 @@ public class AlunoDAO {
 		con.close();
 	}
 	
-	//Funcionalidade: Mostrar aluno(s)
+	//Funcionalidade: Mostrar aluno
 	public Aluno getAluno(int codigo) throws Exception {
 		stmt = con.prepareStatement("SELECT * FROM TABELA_HIDEWARE WHERE CD_ALUNO=?");
 		stmt.setInt(1, codigo);
@@ -44,7 +44,7 @@ public class AlunoDAO {
 		}
 	}
 	
-	//Funcionalidade: Adicionar aluno(s)
+	//Funcionalidade: Adicionar aluno
 	public int addAluno(Aluno objeto) throws Exception {
 		stmt = con.prepareStatement("INSERT INTO TABELA_HIDEWARE (CD_ALUNO, NR_CPF, DT_NASCIMENTO, DS_EMAIL, DS_FACULDADE, NM_ALUNO, NR_CELULAR, DS_SENHA, NR_TELEFONE) VALUES (?,?,?,?,?,?,?,?,?)"); 
 		stmt.setInt(1, objeto.getCodigo());
@@ -60,7 +60,7 @@ public class AlunoDAO {
 		return stmt.executeUpdate();
 	}
 	
-	//Funcionalidade: Deletar aluno(s)
+	//Funcionalidade: Deletar aluno
 	public int deleteAluno(Aluno objeto) throws Exception {
 		stmt = con.prepareStatement("DELETE FROM TABELA_HIDEWARE WHERE CD_ALUNO=?");
 		stmt.setInt(1, objeto.getCodigo());
@@ -68,7 +68,7 @@ public class AlunoDAO {
 		return stmt.executeUpdate();
 	}
 	
-	//Funcionalidade: Atualizar aluno(s)
+	//Funcionalidade: Atualizar aluno
 	public int updateAluno(Aluno objeto) throws Exception {
 		stmt = con.prepareStatement("UPDATE TABELA_HIDEWARE SET NR_CPF=?, DT_NASCIMENTO=?, DS_EMAIL=?, DS_FACULDADE=?, NM_ALUNO=?, NR_CELULAR=?, DS_SENHA=?, NR_TELEFONE=? WHERE CD_ALUNO=?");
 		stmt.setInt(1, objeto.getCpf());
