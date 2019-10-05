@@ -4,15 +4,17 @@ public class Aluno {
 	private int codigo;
 	private String nome;
 	private String email;
-	private int cpf;
+	private String cpf;
 	private String dataNascimento;
 	private String senha;
-	private int numeroCelular;
+	private long numeroCelular;
 	private String faculdade;
-	private int telefone;
+	private long telefone;
+	private String sexo;
+	private String endereco;
 	
-	public Aluno(int codigo, String nome, String email, int cpf, String dataNascimento, String senha, 
-			int numeroCelular, String faculdade, int telefone) {
+	public Aluno(int codigo, String nome, String email, String cpf, String dataNascimento, String senha, 
+			long numeroCelular, String faculdade, long telefone, String sexo, String endereco) {
 		super();
 		this.codigo = codigo;
 		this.nome = nome;
@@ -23,6 +25,8 @@ public class Aluno {
 		this.numeroCelular = numeroCelular;
 		this.faculdade = faculdade;
 		this.telefone = telefone;
+		this.endereco = endereco;
+		this.sexo = sexo;
 	}
 	
 	public Aluno() {
@@ -53,11 +57,11 @@ public class Aluno {
 		this.email = email;
 	}
 
-	public int getCpf() {
+	public String getCpf() {
 		return cpf;
 	}
 
-	public void setCpf(int cpf) {
+	public void setCpf(String cpf) {
 		this.cpf = cpf;
 	}
 
@@ -77,11 +81,11 @@ public class Aluno {
 		this.senha = senha;
 	}
 
-	public int getNumeroCelular() {
+	public long getNumeroCelular() {
 		return numeroCelular;
 	}
 
-	public void setNumeroCelular(int numeroCelular) {
+	public void setNumeroCelular(long numeroCelular) {
 		this.numeroCelular = numeroCelular;
 	}
 
@@ -93,11 +97,28 @@ public class Aluno {
 		this.faculdade = faculdade;
 	}
 
-	public int getTelefone() {
+	public long getTelefone() {
 		return telefone;
 	}
 
-	public void setTelefone(int telefone) {
+	public void setTelefone(long telefone) {
 		this.telefone = telefone;
 	}
+
+	public String getSexo() {
+		return sexo;
+	}
+
+	public void setSexo(String sexo) {
+		this.sexo = sexo;
+	}
+
+	public String getEndereco() {
+		return endereco;
+	}
+
+	public void setEndereco(String endereco) {
+		this.endereco = endereco;
+	}
+	
 }
