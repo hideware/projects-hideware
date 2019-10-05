@@ -3,5 +3,7 @@
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_212"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/logonrmlocal/Desktop/Projeto_ChatBot_Hideware/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc6.jar"/>
+	<classpathentry kind="src" path="/Busca&amp;Ordenação"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
