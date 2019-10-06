@@ -15,6 +15,7 @@ public class ConteudoBO {
 		}
 		
 		objetoConteudo.setTitulo(objetoConteudo.getTitulo().toUpperCase());
+		objetoConteudo.setAudio(objetoConteudo.getAudio().toUpperCase());
 		
 		DisciplinaDAO discDAO = new DisciplinaDAO();
 		Disciplina disc = discDAO.getDisciplina(objetoConteudo.getCodigo());
