@@ -1,4 +1,4 @@
-um algoritmo é formalmente uma seqüência finita de passos que levam a execução de uma  tarefa. 
+﻿um algoritmo é formalmente uma seqüência finita de passos que levam a execução de uma  tarefa. 
 podemos  pensar  em  algoritmo  como  uma  receita,  uma  seqüência  de  instruções  que  dão  cabo  de  uma  meta  específica
 o algoritmo pode ser usado como uma ferramenta genérica para representar a solução de tarefas independente do desejo de automatizá-las
 um algoritmo é uma receita para um processo computacional e consiste de uma série de operações primitivas, interconectadas devidamente, sobre um conjunto de objetos
@@ -4754,83 +4754,503 @@ short ou long se referem ao tamanho das variaveis
 signed ou unsigned indicam, respectivamente, se as variaveis do tipo int poderao ser positivas e negativas ou apenas positivas
 a qualificacao de tipo e realizada quando os qualificadores sao antepostos aos tipos.
 uma variavel do tipo unsigned long int armazena inteiros positivos de tamanhos grandes, enquanto que uma variavel do tipo signed short int armazena inteiros positivos e negativos de tamanhos menores.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+dessa forma, assuntos mais comentados tendem a aparecer para mais pessoas,mas também estão relacionados com preferências, histórico, comportamento etc
+dessa forma, é essa sistematização que viabiliza todo tipo de softwares que facilitam a vida e também permitem a automação dos processos
+dessa forma, o algoritmo vai crescendo e ficando mais complexo para englobar todos os cenários possíveis 
+dessa forma, torna-se indispensável que haja qualidade e relevância nos conteúdos criados para as diferentes plataformas, além de considerar as estratégias de seo para executá-los
+dessa forma, um algoritmo é uma descrição passo a passo de como o computador irá executar uma operação específica, como, por exemplo, uma ordenação
+desta forma, as demais rotinas e o programa principal não poderão fazer uso daquelas variáveis como global, pois não visualizam a existência das mesmas
+desta forma, é possível passar valores de uma rotina a outra rotina, através do uso de parâmetros que poderão ser formais ou reais
+desta forma, poderá executar um determinado conjunto de instruções enquanto a condição verificada permanecer verdadeira
+desta forma, qualquer modificação feita no parâmetro formal, implica em alteração no parâmetro real correspondente
+desta forma, repeat irá processar um conjunto de instruções, no mínimo uma vez, até que a condição se torne verdadeira
+desta forma, se todos os casos base e regras se demonstrarem calculáveis, então qualquer sistema matemático pode ser também calculado
+desvantagens do modelo mvc não é aconselhável para pequenas aplicações
+desvantagens do modelo mvc requer pessoal especializado
+desvantagens do modelo mvc requer uma quantidade maior de tempo para analisar e modelar o sistema
+determinístico ou não-determinístico - algoritmos determinísticos resolvem o problema com uma decisão exata a cada passo enquanto algoritmos não-determinísticos resolvem o problema ao deduzir os melhores passos através de estimativas sob forma de heurísticas
+devemos assumir que ao declararmos um determinado vetor índice com um índice específico estamos fazendo referência a um número
+devemos lembrar que quem  faz  o  programa,  raramente  testa  seus  pontos  deficientes
+devemos observar que para podermos afiançar se um programa funciona com o desempenho necessário, o processo empírico é muito frágil para garantir algo
+devemos usar a nossa lógica para desenvolver um software e, em computação, lógica é a base para tudo
+devemos utilizar essa estrutura quando sabe-se de antemão o número de vezes que o laço deverá ser executado
+deve-se observar que, caso o bloco de código nunca modificar o estado da condição, a estrutura será executada para sempre, uma situação chamada laço infinito
+deve-se perceber que para um dado algoritmo pode-se ter diferentes quantidades de recursos alocados de acordo com os parâmetros passados na entrada
+deve-se usar a estrutura para quando o número de repetições é controlado por uma variável controladora
+deve-se usar a estrutura para quando o número de repetições é controlado por uma variável controladora, quando há inicialização e atualização, mas que sejam simples o suficiente para que sejam acomodadas na linha do para
+deve-se, contudo, ter o cuidado de modificá-la dentro do laço para que não caiamos em um laço infinito
+diferentemente de outras redes sociais, o twitter não usa exclusivamente o algoritmo para determinar o feed. isso se deve ao caráter cronológico que precisa ser mantido pela rede para que atenda ao objetivo de disponibilizar os acontecimentos mais recentes
+diferentes algoritmos podem realizar a mesma tarefa usando um conjunto diferenciado de instruções em mais ou menos tempo, espaço ou esforço do que outros
+diferentes linguagens de programação funcionam de diferentes modos
+diferentes linguagens de programação podem ser agrupadas segundo o paradigma que seguem para abordar a sua sintaxe e semântica
+diferentes partes de um programa podem ser escritas em diferentes linguagens
+dispositivo de entrada é o meio pelo qual as informações mais especificamente os dados são transferidos pelo usuário ou pelos níveis secundários de memória ao computador
+dispositivo de saída é o meio pelo qual as informações geralmente os resultados da execução de um programa são transferidos pelo computador ao usuário ou aos níveis secundários de memória
+diversas linguagens relevantes hoje ainda utilizam o paradigma estruturado, embora possuam suporte para a orientação ao objeto e para outros paradigmas de programação
+divisão e conquista algoritmos de divisão e conquista reduzem repetidamente o problema em sub-problemas, geralmente de forma recursiva, até que o sub-problema é pequeno o suficiente para ser resolvido
+diz-se então que o procedimento ou função é recursivo
+diz-se que um software é case-sensitive ou possui case sensitivity[nota 2] quando ele é capaz de analisar uma cadeia de caracteres, avaliar a existência de caixa alta e caixa baixa e comportar-se de diferentes maneiras em função disso
+do mesmo modo que em um laço while, se a condição de um laço for já é falsa logo na primeira avaliação que se fizer dela, as instruções contidas em seu corpo jamais serão executadas
+do ponto de vista do processador, as interrupções de hardware podem ser consideradas como condições análogas às exceções que permitem prosseguimento da execução, apesar destas exceções não serem normalmente relacionadas com o fluxo normal do programa
+do while é muito parecido com o while, porém tem uma diferença crucial condição é verificada após executar o bloco de comandos
+do while são repetidos enquanto a expressão lógica for verdadeira, ou seja, o ciclo de processamento termina quando a condição se tornar falsa
+do while tem um comportamento muito semelhante ao while, com uma diferença crucial a condição é verificada após executar o bloco de instruções correspondente
+documentar o projeto, descrevendo a especificação do código desta maneira, qualquer pessoa poderá analisar um arquivo de documentação, mesmo que este não apresente o código fonte
+documentos compactados em todos os formados, mesmo representações muito grandes em json ou xml apresentam tamanho idêntico após a compressão
+dois cuidados ao criar estruturas de repetição enquanto inicializar a variável que controla o laço antes do início do laço
+dois cuidados ao criar estruturas de repetição enquanto inicializar a variável que controla o laço dentro do laço, pois se isto não for feito cairemos no que chamamos um laço infinito e de lá o nosso programa não sairá
+dos: esta unidade possui as rotinas que envolvem a utilização do sistema operacional, na maior parte das vezes permitindo controles de baixo nível
+durante a execução de uma expressão que envolve vários operadores, é necessário a existência de prioridades, caso contrário poderemos obter valores que não representam o resultado esperado
+durante algum tempo contaram com mais usuários que as tradicionais linguagens de programação cobol, c, pascal e basic
+durante o processo de tradução de uma publicação científica italiana sobre o projeto de babbage, ela incluiu algumas notas de tradução que constituem o primeiro programa escrito na história da humanidade. muito justamente, ada também foi eternizada com o nome de uma linguagem de computador que leva seu nome
+é a descrição, de forma lógica, dos passos a serem executados no cumprimento de determinada tarefa
+é a forma pela qual descrevemos soluções de problemas do nosso mundo, afim de serem implementadas utilizando os recursos do mundo computacional
+é a única linguagem que um microprocessador pode entender nativamente
+é apenas uma série de instruções simples que são realizadas para resolver um problema
+é aquilo que popularmente chamamos de fila, embora essa nomenclatura se aplique ao mesmo conceito acadêmico, apenas com uma definição mais precisa
+é baseada no princípio, em se passar sempre o menor valor do vetor para a primeira posição, depois o de segundo menor valor paraa segunda posição, e assim sucessivamente
+é chamado também transformação e conquista
+e como toda receita, um algoritmo também deve ser finito
+é comum, em programação, decompor a lógica de programas complexos em programas menores e, depois, juntá-los para compor o programa final
+é considerada de segunda geração, pois embora não seja uma linguagem nativa do microprocessador, um programador que use a linguagem assembler ainda deve compreender as características da arquitetura do microprocessador como registradores e instruções
+é considerada o paradigma fundamental da programação lógica, sendo o oposto da programação procedimental, que é típica das linguagens convencionais
+é considerado um padrão de projeto uma solução já testada e documentada que possa resolver um problema específico em projetos distintos
+é conveniente pensar que uma definição recursiva define objetos em termos de objetos previamente definidos dessa mesma classe que está sendo definida
+é criado em um mil e novecentos e quarenta e sete, na universidade de stanford eua, o transistor, usado somente a partir da década posterior
+é dever do programador saber qual o tipo de variável que o problema requisita
+é diferente da forma normal de programação na medida em que invoca de certa forma as facilidades de metaprogramação da linguagem
+é diferente também da programação por macros, já que esta refere-se somente a busca e substituição de termos, não fazendo parte da gramática da linguagem, implementada somente na fase de pré-processamento do código
+é fácil perceber que simplesmente as chaves do java foram substituídas pelas palavras begin-end em pascal, que representam o começo e o final do bloco de instruções
+é forma de organização através da enumeração de dados para melhor visualização da informação
+é frequentemente utilizado para especificar que uma subclasse deve fornecer uma implementação do método
+é fundamental compreender que o algoritmo se justifica no resultado que ele almeja alcançar, logo, deve ter um objetivo específico
+é importante construir árvores binárias com altura mínima a árvore completa possui tal propriedade
+é importante desenhar, rascunhar e usar de todos os artifícios para montar a lógica que nos leve à solução ou mesmo a um raciocínio intermediário
+é importante notar que o algoritmo tem de ser finito e executa instruções de forma sistemática, ou seja, ele é cego diante do que está fazendo, e os passos com os que opera são elementares
+é importante notar que o algoritmo tem um fluxo que pode seguir diferentes caminhos dependendo da situação em que se encontra
+é importante salientar que cada iteração se refere a apenas uma instância da ação, ou seja, cada repetição possui uma ou mais iterações
+é importante salientar que um algoritmo simplesmente diz o que deve ser feito
+é mais fácil fazer o teste de mesa do que elaborar o algoritmo, sendo a elaboração de uma solução algorítmica algo que exige maior capacidade do programador 
+é muito frequente no desenvolvimento de algoritmos nos encontrarmos em um ponto de decisão
+é muito simples adicionar novos clientes apenas incluindo seus views e controles no modelo mvc
+é necessário definir algoritmos antes de serem utilizadas para permitir que o compilador reserve um espaço na memória para as mesmas
+e o bloco de instruções é o conjunto de instruções que estão subjugadas ao comando se
+é o menos performático dos métodos, mas também por isso, o mais simples de todos
+é o principal componente dos computadores de segunda geração
+e os refinamentos de cada procedimento em outros procedimentos, obteremos, ao fim do processo de criação, um algoritmo estruturado
+e para reutilização de um módulo em outros algoritmos e programas, no futuro
+é possível aprender algoritmos e lógica de programação mesmo sem ser um craque nas exatas
+é possível distribuir a carga de processamento de aplicações desenvolvidas em diversos servidores
+é possível também fazer a subtração entre dois ponteiros
+é possível ter desenvolvimento em paralelo para o modelo visualizador e controle pois são independentes
+é possível ter desenvolvimento em paralelo para o modelo, visualizador e controle pois são independentes no modelo mvc
+é possível ter várias visões do mesmo dado como um gráfico de barras para gerenciamento e uma visão tabular para contadores
+é provável que o algoritmo do google seja o mais conhecido e não é por acaso que seu segredo é muito bem guardado pela empresa
+é realmente fundamental pelo menos saber ler em inglês, pois os códigos são escritos nessa língua
+é relacionada com a metaprogramação, mas não envolve a geração de código fonte, pelo menos visivelmente ao programador
+é relevante que a estrutura do código siga uma lógica sistemática
+é sempre bom saber antes se o json é valido
+é também considerada uma linguagem de baixo nível, mas ainda hoje é utilizada
+é um conjunto de variáveis do mesmo tipo acessíveis com um único nome
+é um conjunto de regras sintáticas e semânticas usadas para definir um programa de computador
+é um programa de livre uso e distribuição, empregado no ensino de programação em várias escolas e universidades no brasil e no exterior
+é um refinamento do método de inserção direta
+é um símbolo que associamos a um banco de dados que é composto por um conjunto de tabelas, porque são que matrizes bidimensionais
+é uma boa técnica ao se construir um procedimento, não fazer uso no mesmo, de variáveis globais e referenciar e utilizar apenas as variáveis locais e os parâmetros do procedimento
+é uma estrutura que repete um bloco de código enquanto uma condição permanecer verdadeira
+é uma implementação concreta de um tipo abstrato de dado tad ou um tipo de dado td básico ou primitivo
+é uma sequência finita e ordenada de passos (regras), com um esquema de processamento que permite a realização de uma tarefa
+é utilizado para contar o número de vezes que um evento ou uma instrução ocorre, ou seja, um contador conta a quantidade de vezes que uma instrução é executada
+é utilizado uma variável para controlar o número de repetições
+é, provavelmente, o primeiro algoritmo complexo e formalizado de que se tem notícia
+eds eficientes são cruciais para a elaboração de algoritmos, diversas linguagens possuem ênfase nas eds, como evidenciado pela poo
+efetua a tradução de linguagem de montagem  assembly  para a linguagem de máquina
+eficiência refere-se à velocidade de processamento e a correta utilização da memória um programa deve ter performance suficiente para atender às necessidade do problema e do usuário
+ela é composta por células que apontam para o próximo elemento da lista
+ela fornece funções úteis para trabalhar com tipos primitivos
+ela pode ser entendida como uma abstração que estabelece a forma de interação da entidade com o mundo exterior, através da separação dos métodos de comunicação externa dos detalhes internos da operação, permitindo que esta entidade seja modificada sem afetar as entidades externas que interagem com ela
+ela possui a maior parte das rotinas e variáveis de geração de som, controle de vídeo e teclado
+ela preocupa-se com os recursos necessários para a execução do algoritmo tais como o tempo de execução e o espaço de armazenamento de dados
+elas são conhecidas e podem ser alteradas por todas as funções do programa
+ele ajuda os estudantes na área da computação a aprimorar o raciocínio lógico e a programar, pois essa ferramenta só usa palavras do nosso idioma
+ele apenas responde a requisições por informações de quem quer que seja e requisita por transformações nas informações feitas pelo controlador
+ele é chamado compilador por razões históricas; nos primeiros anos da programação automática, existiam programas que percorriam bibliotecas de sub-rotinas e as reunia, ou compilava,[nota 1] as subrotinas necessárias para executar uma determinada tarefa
+ele é executado por um objeto ao receber uma mensagem
+ele é recomendado para os iniciantes, porem há várias outras ides utilizadas para programar, como o eclipse, por exemplo
+ele é representado pelo identificador boolean
+ele é utilizado principalmente em algoritmos quando a linguagem utilizada não possui nenhuma ferramenta automatizada de depuração
+ele era formado por william selden e gertrude tierney da ibm howard bromberg e howard discount da rca vernon reeves e jean e. sammet da sylvania electric products
+elementos de um vetor array são representados através de conjuntos de variáveis de um determinado tipo de dados 
+eles ajudam a você também: usando protótipos, o compilador evita erros, não deixando que o programador use funções com os parâmetros errados e com o tipo de retorno errado, o que é uma grande ajuda
+eles podem repetir passos fazer iterações ou necessitar de decisões tais como comparações ou lógica até que a tarefa seja completada
+eles têm acesso somente a lista de sub-rotinas empilhadas, e não à memória da pilha de chamada em si
+eles têm uma cláusula receptora que ordena em que tipo eles atuam
+em  java,  por  exemplo,   usamos  a  instrução system.out.printalgo  para imprimire no c, console.write imprima isso desempenha este papel
+em  plsql,  por  exemplo, os contadores de uma estrutura  de repetição para a ser vista mais adiante, também não devem ser declarados
+em algoritmos, vamos nos ater apenas nos tipos numéricos, caracteres e booleanos
+em algumas linguagens de programação, como o pascal e o cobol, é impensável expandir o tamanho de um vetor, pois essas linguagens tratam os vetores em posições contíguas de memória, o que impede eventuais expansões
+em algumas linguagens esse tipo strings em java são objetos que contém uma cadeia de caracteres
+em algumas linguagens, entretanto, a indentação é obrigatória python, occam e haskell, por exemplo, utilizam a mudança de indentação para definir a hierarquia dentre blocos de código
+em alguns casos é mais apropriado definir as variáveis como parte das interfaces
+em alguns contextos, como em programação lisp, o termo lista pode se referir especificamente à lista encadeada em vez de um array
+em alguns contextos, o termo modelagem orientada ao objeto moo é preferível ao termo poo
+em alguns sistemas computacionais concorrentes, a comunicação entre os componentes é escondida do programador, enquanto em outros a comunicação deve ser lida explicitamente
+em alguns sistemas o quadro de pilha possui um campo que contém o valor anterior do registrador ponteiro de quadro, isto é, o valor desse registrador enquanto o quadro anterior estava em execução
+em ambas as linguagens a aritmética de ponteiros é quase irrestrita adicionar ou subtrair de um ponteiro o movimenta tendo como unidade o tamanho do tipo de dados para o qual ele aponta
+em ambas ocorre a tradução do código fonte para código de máquina
+em assembler o chip faz exatamente aquilo que lhe é comandado, mesmo que não faça sentido algum
+em assembler para corrigir erros de digitação é tão fácil ou complicado como qualquer outra linguagem
+em assembler todas as características de proteção devem ser programadas por você
+em assembly acessos via ponteiros são feitos com comandos especialmente designados
+em assembly instruções nunca iniciam na coluna um
+em assembly uma aplicação muito especial para os ponteiros é acessar os próprios registradores
+em boas práticas de programação em csharp é necessário colocar espaços dos dois lados dos operadores aritméticos
+em boas práticas de programação em csharp é necessário colocar nas funções, que imprimem alguma mensagem, como último caractere de impressão, um comando de fim de linha
+em boas práticas de programação em csharp é necessário colocar sempre o default no comando switch para chamar a atenção em casos excepcionais
+em boas práticas de programação em csharp é necessário colocar sempre uma linha em branco entre a declaração de variáveis e os comandos seguintes
+em boas práticas de programação em csharp é necessário colocar um espaço após cada vírgula ou ponto e vírgula na estrutura for
+em boas práticas de programação em csharp é necessário começar o nome dos identificadores com letra maiúscula, e, da mesma forma, cada palavra das variáveis com nomes compostos
+em boas práticas de programação em csharp é necessário começar todo programa com um comentário descrevendo a finalidade do mesmo
+em boas práticas de programação em csharp é necessário consultar as tabelas de precedência dos operadores aritméticos e, em caso de dúvida
+em boas práticas de programação em csharp é necessário controlar as repetições com valores inteiros
+em boas práticas de programação em csharp é necessário declarar as variáveis sempre no início das funções
+em boas práticas de programação em csharp é necessário declarar cada variável em uma linha para facilitar a escrita de comentários
+em boas práticas de programação em csharp é necessário digitar as chaves, parênteses e colchetes abrindo e fechando antes de digitar os comando ou expressões entre eles
+em boas práticas de programação em csharp é necessário escolher nomes significativos para as variáveis
+em boas práticas de programação em csharp é necessário escrever os operadores unários sempre próximos das variáveis sem espaços
+em boas práticas de programação em csharp é necessário escrever os programas de maneira bem simples e direta
+em boas práticas de programação em csharp é necessário escrever parênteses, ainda que redundantes, para facilitar o entendimento de expressões aritméticas
+em boas práticas de programação em csharp é necessário escrever sempre chaves nos comandos de controle ifelse, while, for etc, mesmo que não seja obrigatório
+em boas práticas de programação em csharp é necessário escrever um comando por linha
+em boas práticas de programação em csharp é necessário estabelecer um critério de espaços nos recuos
+em boas práticas de programação em csharp é necessário evitar alterar as variáveis de controle do laço for, dentro do corpo do laço
+em boas práticas de programação em csharp é necessário evitar muitos níveis de indentação, pois estes tornam os programas difíceis de serem entendidos
+em boas práticas de programação em csharp é necessário explicitar os valores dos flags nas entradas de dados que os contêm
+em boas práticas de programação em csharp é necessário fazer indentação no corpo de uma estrutura
+em boas práticas de programação em csharp é necessário fazer pequenos programas para testar os comandos da linguagem
+em boas práticas de programação em csharp é necessário identar o corpo de todos os comandos if else
+em boas práticas de programação em csharp é necessário imprimir mensagens de erro em expressões que tenham restrições de valores
+em boas práticas de programação em csharp é necessário indentar todos os níveis com o mesmo espaçamento
+em boas práticas de programação em csharp é necessário inicializar as variáveis ao declará-las, sempre que possível
+em boas práticas de programação em csharp é necessário inicializar contadores, somatórios ou produtórios
+em boas práticas de programação em csharp é necessário ler documentos a respeito da versão da linguagem csharp ou a que estiver usando
+em boas práticas de programação em csharp é necessário ler e estude cada mensagem de erro emitida pelo compilador
+em boas práticas de programação em csharp é necessário quebrar um comando longo em comandos menores e mais simples
+em boas práticas de programação em csharp é necessário recuar o corpo de uma função endentação, fazendo com que a mesma fique mais legível
+em boas práticas de programação em csharp é necessário separar os comandos longos em várias linhas, quebrando-as em pontos que façam sentido
+em boas práticas de programação em csharp é necessário solicitar ao usuário os valores a serem digitados, com mensagens adequadas
+em boas práticas de programação em csharp é necessário terminar toda função com return
+em boas práticas de programação em csharp é necessário testar os programas exaustivamente
+em boas práticas de programação em csharp é necessário usar o valor absoluto da diferença entre dois números reais
+em boas práticas de programação em csharp é necessário usar um pseudocódigo para bolar um programa
+em c e c mais mais, ponteiros são variáveis que armazenam endereços e podem ser nulas
+em c mais mais a declaração de constantes simbólicas é efetuada através do modificador const
+em c mais mais esse tipo de instrução não existe, contudo, através do comando goto
+em c mais mais, uma variável deve estar associada a um dos tipos de dados primitivos ou a uma classe definida pelo programador, sendo neste caso denominada um objeto
+em c, ponteiros de tipos diferentes possuem seus próprios valores nulos, isto é, um ponteiro nulo do tipo char é diferente de um ponteiro nulo do tipo int
+em caso contrário, irá para berlim. todavia, podemos inserir novas variáveis
+em ciência da computação, estrutura de controle ou fluxo de controle refere-se à ordem em que instruções, expressões e chamadas de função são executadas ou avaliadas em programas de computador sob programação imperativa ou funcional
+em ciência da computação, um algoritmo é uma sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema
+em cobol a seção de configuração fornece informações sobre o sistema no qual o programa está escrito e executado
+em cobol as declarações são significativas em cobol declarações fazem parte do processamento
+em cobol as seções são a subdivisão da lógica lógica do programa uma seção é uma coleção de números
+em cobol as sentenças são a combinação de um ou mais comandos
+em cobol capítulo articulação é usada para descrever os dados nomes que são recebidas de um programa externo
+em cobol computador de origem é um sistema utilizado para compilar o programa
+em cobol controle de arquivo fornece informações sobre conjuntos de dados externos
+em cobol insumo seção fornece informações sobre os arquivos que serão usados no programa 
+em cobol objeto computador  é o sistema utilizado para executar o programa
+em cobol os pontos são a subdivisão de uma seção ou divisão
+em cobol personagens são os mais baixos da hierarquia e não pode ser divisível
+em cobol seção de arquivo é usado para definir a estrutura do registro do arquivo
+em cobol seção local-storage working-storage é semelhante à secção
+em cobol seção working-storage é usado para declarar variáveis temporárias e estruturas de arquivos que são usados no programa
+em cobol, o espaço existente é obrigatoriamente estabelecido
+em computação um vetor array ou arranjo é o nome de uma matriz unidimensional considerada a mais simples das estruturas de dados
+em computação, podemos definir um algoritmo como sendo uma forma genérica de se representar procedimentos computacionais que, quando executados, levam à solução de uma classe de problemas de natureza semelhante
+em determinado momento de nossa aplicação gostaríamos de ter o controle sobre a construção dos objetos da nossa classe
+em diversas linguagens de programação a pilha de chamada possui uma área limitada de memória, geralmente determinada no início do programa
+em do while há uma bloco de comandos e logo depois uma verificação assim caso a variável condicional for alterada dentro do bloco de comandos, isso afetará a validação da condição
+em dois mil e onze, uma situação não explicada fez com que o livro the making of a fly, de peter lawrence, alcançasse o valor de um vírgula sete bilhão de dólares na amazon e, em seguida, subisse para quase vinte e três vírgula sete bilhões de dólares mais frete. a empresa, que usa algoritmo para precificação, não conseguiu explicar a anormalidade
+em encapsulamento nível de classe é quando determinamos o acesso de uma classe inteira que pode ser public ou package-private
+em encapsulamento nível de membro é quando determinamos o acesso de atributos ou métodos de uma classe que podem ser public, private, protected ou package-private
+em geral a eficiência ou complexidade de um algoritmo é função do tamanho do problema
+em geral, na ocorrência de uma exceção, o estado do programa é gravado em um local pré-definido e a sua execução é direcionada para uma rotina de tratamento
+em geral, pelo menos no processo de desenvolvimento de um algoritmo, fazemos alguns testes, habitualmente com um conjunto finito e bem determinado de itens
+em geral, pelo menos no processo de desenvolvimento de um algoritmo, fazemos alguns testes, habitualmente com um conjunto finito e bem determinado de itens, capazes de permitir a realização de testes que nos permitam descobrir erros grosseiros
+em geral, um programa em uma linguagem imperativa deixa de ser uma expressão e passa a ser um comando
+em go as interfaces declaram um conjunto de métodos
+em go embora seja possível aplicar a maioria dos conceitos de orientação a objetos, muitos dos conceitos conhecidos ou estão diferentes ou inexistem
+em go, não existe classes, porém tem structs tipos definidos pelos usuários
+em golang a natureza e o estilo dos comentários determina a qualidade da documentação que godoc produzirá
+em golang cada pacote deve ter um pacote comentário, um bloco comentado que precede a cláusula do pacote
+em golang comentários não precisam de formatação extra
+em golang para converter o array de bytes para um map, você pode utilizar a função unmarshal do pacote json
+em golang se o pacote é simples, o comentário pacote pode ser breve
+em golang usamos a função readfile do pacote ioutil para carregar e ler o arquivo
+em java a classe deve estar em um arquivo fonte source file e deve ir com um par de chaves são nessas chaves que serão colocados os métodos
+em java cada classe class é colocada em um arquivo source esses arquivos representam partes de uma aplicação ou toda a aplicação no caso de programas muito pequenos
+em java os operadores lógicos são simbolizados como e comercial, exclamação igual, entre outros
+em java, costumamos utilizar o termo atributo, que é nada além do que uma variável que está dentro de uma classe
+em java, por exemplo, usamos a instrução system.out.print algo para imprimir e no c sharpe, console.writeimprima isso desempenha este papel
+em java, procuramos sempre trabalhar orientado a objeto, portanto essa nosso servlet será também um objeto de uma classe java
+em laços while e do-while, uma instrução continue desvia o fluxo de execução para a condição
+em linguagem c, a instrução varia levemente, printf, mas há necessidade de envio de um caractere especial solicitando o salto de linha \n.
+em linguagem c, ao contrário de outras linguagens, não existe um tipo de dados string nativo
+em linguagem c, contudo, o problema não é resolvido tão facilmente
+em linguagens baseadas em classe eles são definidos na classe
+em linguagens com tipos de dados fracos, tais como php e vbscript, a conversão não se faz necessária, sendo realizada implicitamente pelo compilador ou interpretador
+em linguagens lógicas de programação, os programas consistem em instruções lógicas e o programa é executado procurando provas das instruções
+em linguagens orientadas a objetos um iterador, mesmo que implícito, é frequentemente utilizado como meio de travessia
+em linguagens puramente imperativas, como assembly, é muito fácil o programador criar códigos de difícil leitura, pois esse tipo de linguagem possui o que se chama de saltos jumps em sua estrutura
+em linguagens que aceitam a técnica, outros tipos de aninhamento também são geralmente aceitos, como o aninhamento de constantes e tipos de dado
+em linguagens tipadas, apenas informações do mesmo tipo serão armazenadas nas variáveis, ou seja, não é possível armazenar um caractere em um inteiro ou vice-versa
+em lisp a função zerop testa se o argumento é zero
+em lisp cond é uma condicional segindo cond vêm pares de funções
+em lisp defun serve para definir uma função após a definição o sistema retorna o nome da função
+em lisp interpretador é implementado usando estruturas de listas encadeadas
+em lisp listas também podem ser avaliadas para valores
+em lisp se existir dependência entre as definições de constantes é necessario usar let
+em matemática, problemas de programação linear são problemas de otimização nos quais a função objetivo e as restrições são todas lineares
+em muitas variáveis criadas, somente através de seu nome nem sempre é possível saber que informação ela irá armazenar ou para que ela servirá, por isso, não deixe de comentá-la nesses casos
+em muitos contextos, pode-se assumir que programação estruturada é sinônimo de programação sem goto sem pulos, sem redirecionamentos arbitrários do ponteiro da sequência de instruções em execução
+em nível de linguagem de máquina, as instruções de estruturas de controle geralmente funcionam ao alterar o contador de programa
+em nosso dia a dia utilizamos algoritmos para realizar nossas atividades
+em nosso dia a dia utilizamos algoritmos para realizar nossas atividades, definindo a sequência de atividades que devemos fazer para atingir um objetivo
+em outras estruturas de dados, como listas encadeadas, ponteiros são usados como referências para intercalar cada elemento da estrutura com seus vizinhos
+em outras linguagens, como o basic, essa expansão é possível, mas deve ser cuidadosamente utilizada, pois se a extensão do vetor passar de certos limites e violar o espaço de memória disponível, só restará ao sistema operacional suspender a execução do programa gerando um erro de execução
+em outras palavras, carregada essa matriz, poderíamos apresentar seus dados usando dois índices totalmente diferentes
+em outras palavras, isso também mostra como os algoritmos e a lógica de programação é mais simples do que parece
+em outras palavras, o que se deseja efetivamente é avaliar o desempenho do algoritmo independentemente de sua implementação, em função apenas das instruções executadas
+em particular, a programação restritiva e a programação lógica descrevem propriedades da solução desejada, não especificando como o algoritmo em si deve agir
+em pascal existem estruturas que nos permitem agrupar várias informações dentro de uma mesma variável estas estruturas são chamadas de vetores e matrizes
+em pascal temos write algo a imprimir ou writeln algo a imprimir
+em pascal, os tipos registro devem ser declarados ou atribuídos antes das definições das variáveis, pois é muito comum ocorrer a necessidade de se declarar uma variável com o tipo de registro atribuído
+em pascal, write/writeln, como em java
+em pl/sql, por exemplo, os contadores de uma estrutura de repetição para a ser vista mais adiante, também não devem ser declarados
+em poo, programas de computadores são projetados por meio da composição de objetos que interagem com outros
+em português estruturado, por conseguinte, é opcional declarar ou não uma variável antes de usá-la
+em programação orientada a objetos, chama-se instância de uma classe, um objeto cujo comportamento e estado são definidos pela classe
+em programação, a utilização de interfaces permite a composição de componentes de um software sem que a sua implementação seja conhecida
+em qualquer tipo de aninhamento é necessário que a construção interna esteja completamente embutida na construção externa
+"em recursividade, uma função chama a si mesma 
+repetidamente, até atingir uma condição de parada"
+em requisições web é necessario definir no header o formato a ser recebido
+em resposta cada view tem a oportunidade de modificar se
+em se tratando de algoritmos, entretanto, poderemos definir nossos procedimentos e funções em qualquer parte do algoritmo principal ou depois dele, adotando os formatos que se seguem e as normas de documentação
+em seguida, esse código escrito numa linguagem de programação o programa deve ser transformado num programa executável num computador, portanto esse programa deverá ser compilado processo de validação da sintaxe utilizada e linkeditado processo de montagem do programa executável
+em sequência, surgem os minicomputadores e derivados, até chegarmos aos microcomputadores e seus derivados, como o notebook
+em sistemas com alocação explícita de memória, é possível tornar um ponteiro inválido ao desalocar a região de memória apontada por ele
+em sistemas que não utilizam o conceito de exceções as rotinas devem retornar algum código de erro especial
+em termos simples, um endereço de memória, ou índice numérico, é definido para cada unidade de memória no sistema, no qual a unidade é tipicamente um byte ou uma word, o que em termos práticos transforma toda a memória em um grande vetor
+em todas as linguagens de programação dispomos de um conjunto de instruções para leituras nos mais diversos dispositivos, que resultam em entradas de dados
+em todos os vetores tem o primeiro elemento na posição zero
+em um algoritmo, as variáveis, tipos e constantes declaradas logo após o identificador do algoritmo, são acessíveis e visíveis dentro de qualquer procedimento que esteja sendo usado pelo algoritmo
+em um computador digital existem diversos tipos diferentes de software, em camadas, com finalidades e complexidades diferentes
+em um json é possivel representar mais de um objeto complexo
+em um laço do-while, por outro lado, a condição somente é avaliada depois que suas instruções são executadas pela primeira vez, assim, mesmo que a condição desse laço seja falsa antes de ele iniciar, suas instruções serão executadas pelo menos uma vez
+em um laço for, ela desvia o fluxo de execução para a iteração e, em seguida, a condição é lida novamente
+em um laço while, a condição é testada antes da primeira execução das instruções que compõem seu corpo
+em um mil e novecentos e cinquenta e nove, surge o cobol, com uma série de melhorias na entrada e saída de dados
+em um mil e novecentos e quarenta e cinco, os primeiros computadores e suas salas lembravam mais ambientes de filmes de terror com suas válvulas, programação como os fios e outros apetrechos – do que a moderna computação
+em um mil e novecentos e quarenta e sete, pelo húngaro john von neumann, com base em seus estudos feitos sobre o eniac, surge a definição do esquema básico de funcionamento dos computadores atuais
+em um mil e novecentos e sessenta e sete, surge o simula sessenta e sete, que introduz os conceitos de orientação a objetos, que muitos anos depois se tornaria o padrão a ser seguido por quase todas as linguagens de programação
+em um mil e novecentos e setenta e três, surge a linguagem c, aproveitando a linguagem bcpl, criada por dennis ritchie, da at&t
+em um mil e novecentos e trinta e sete, o norte-americano howard aiken cria o primeiro computador eletromecânico, denominado mark i
+em um registro poderemos utilizar uma estrutura que agrupe várias informações, que podem ser de tipos de dados diferentes
+em uma árvore binária toda folha está no último ou penúltimo nível
+em uma classe java são colocados os métodos methods
+em uma linguagem funcional pura, como haskell, todas as funções não têm efeitos colaterais e as alterações de estado, são representadas apenas como funções que transformam o estado, que é explicitamente representado como um objeto de primeira classe no programa
+em várias linguagens, ponteiros possuem a restrição adicional de apontar para objetos de um tipo específico de dado
+em vez de forçá lo a manter a alocação de memória ou usar uma biblioteca de terceiros para isso a plataforma Java fornece gerenciamento de memória fora do padrão
+em c, a implementação de um procedimento é uma função do tipo void
+em c, cadeias de caracteres são tipos compostos, enquanto em dialetos modernos de basic e em javascript esse tipo é nativo da linguagem
+em ciência da computação um algoritmo é uma sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema
+em ciência da computação a análise de algoritmos tem como função determinar os recursos necessários para executar um dado algoritmo
+em ciência da computação tipos de variáveis ou dados é uma combinação de valores e de operações que uma variável pode executar, o que pode variar conforme o sistema operacional e a linguagem de computador
+em ciência da computação, boolean é um tipo de dado primitivo que possui dois valores, que podem ser considerados como zero ou um, falso ou verdadeiro 
+em ciência da computação, mais especificamente no contexto da programação, uma sub-rotina consiste em uma porção de código que resolve um problema muito específico, parte de um problema maior 
+em ciência da computação, um algoritmo é uma sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema
+em ciência da computação, uma lista ou sequência é uma estrutura de dados abstrata que implementa uma coleção ordenada de valores, onde o mesmo valor pode ocorrer mais de uma vez
+em ciência da computação, uma pilha de chamada ou pilha de execução é uma pilha que armazena informações sobre as sub-rotinas ativas num programa de computador
+em ciência da computação, indentação recuo, neologismo derivado da palavra em inglês indentation[1][2] é um termo aplicado ao código fonte de um programa para ressaltar ou definir a estrutura do algoritmo
+em informática, o conceito expande-se para uma estrutura de dados dinâmica, em oposição aos vetores, que são estruturas de dados estáticas
+em linguagens de alto nível, detalhes da pilha de chamada são geralmente escondidos do programador
+em linguagens de programação orientada a objetos, listas normalmente são fornecidas como instâncias ou subclasses de uma classe lista genérica
+em linguagens híbridas, o compilador tem o papel de converter o código fonte em um código chamado de byte code, que é uma linguagem de baixo nível
+em ocaml, a programação genérica é implementada através de polimorfismo
+em orientação a objetos, uma função ou função membro é uma sub-rotina ou procedimento ou função associada a um objeto, e que possui acesso aos seus dados, as variáveis membro
+em programação de computadores, um arranjo em inglês array é uma estrutura de dados que armazena uma coleção de elementos de tal forma que cada um dos elementos possa ser identificado por, pelo menos, um índice ou uma chave
+em programação orientada a objetos, os programadores podem abstrair um programa como uma coleção de objetos que interagem entre si, enquanto em programação funcional os programadores abstraem o programa como uma sequência de funções executadas de modo empilhado
+em programação, um ponteiro ou apontador é um tipo de dado de uma linguagem de programação cujo valor se refere diretamente a um outro valor alocado em outra área da memória, através de seu endereço
+em programação, uma subrotina aninhada ou função aninhada é uma subrotina encapsulada noutra
+embora a linguagem c também seja tipada, ela o é de maneira fraca, isto é,se você tentar fazer uma operação como somar um caractere a um número, ela tentará solucionar isso para você, se isso for de interesse
+embora a montagem seja um processo simples, é tedioso e passível de erros quando feito manualmente
+embora algumas  linguagens  permitam,  se atenham ao uso  de apenas caracteres válidos na língua  inglesa
+embora algumas linguagens permitam, atenha-se ao uso de apenas caracteres válidos na língua inglesa! toda variável é composta de um caractere alfabético, seguido de caracteres alfabéticos ou números
+embora as linguagens funcionais puras não sejam imperativas, elas geralmente fornecem uma facilidade para descrever o efeito de uma função como uma série de etapas
+embora bastante útil, esse método traz em seu bojo vários problemas
+embora haja essa distinção entre linguagens interpretadas e compiladas, as coisas nem sempre são tão simples
+embora o fortran tenha sido a primeira linguagem de terceira geração a ser usada, a primeira linguagem criada não foi esta
+embora seja teoricamente possível a construção de computadores especiais, capazes de executar programas escritos em uma linguagem de programação qualquer, os computadores, existentes hoje em dia são capazes de executar somente programas em linguagem de baixo nível, a linguagem de máquina
+embora seja um comando poderoso, o uso de gotos é considerado, em geral, má prática, havendo quem o defenda em algumas situações
+embora você não perceba, utiliza algoritmos de forma intuitiva e automática diariamente quando executa tarefas comuns 
+empacote os dados com suas operações naturais/intrínsecas
+encapsulament é a técnica que faz com que detalhes internos do funcionamento dos métodos de uma classe permaneçam ocultos para os objetos
+encapsulamento dos dados é um mecanismo utilizado para reunir os dados e os métodos numa estrutura que pode esconder a implementação do objeto, ou seja, ele impede o acesso aos dados por um meio diferente dos serviços propostos
+encapsulamento é um conceito de programação orientada a objetos que liga os dados e funções que manipulam os dados e que mantem ambos seguros de interferência externa e má utilização
+encapsulamento é um princípio, utilizando quando se está desenvolvendo a estrutura geral de um programa, no qual cada componente de um programa deve encapsula
+encapsulamento incentiva o desacoplamento
+encapsular atributos também auxilia a garantir que o estado e o comportamento de um objeto se mantenha coeso 
+encapsular é fundamental para que seu sistema seja suscetível a mudanças não precisaremos mudar uma regra de negócio em vários lugares, mas sim em apenas um único lugar, já que essa regra está encapsulada
+encontrar um nome para um novo padrão é considerada uma etapa difícil já que o nome deve proporcionar a ideia para a qual o padrão foi criado
+enfim,   a  grande  regra  das  linguagens   de  programação  e  da  lógica  de programação é que a única certeza é que nada é certo
+enfim, a grande regra das linguagens de programação e da lógica de programação é que a única certeza é que nada é certo
+engenharia de software é uma área da computação voltada à especificação, desenvolvimento, manutenção e criação de software, com a aplicação de tecnologias e práticas de gerência de projetos e outras disciplinas, visando organização, produtividade e qualidade
+enquanto a herança se refere às classes e a sua hierarquia, o polimorfismo diz respeito aos métodos dos objetos
+enquanto a instrução break é utilizada para encerrar um laço, a instrução continue serve para iniciar uma nova repetição em que todas as instruções tenham sido executadas
+enquanto a pe fia-se em estruturas de controle de alto níve, concepções top-down e refinamento por passos, a poo se baseia no conceito de objetos que possuem atributos e métodos 
+enquanto algumas entidades como a fsf argumentam que um arquivo intermediário não é um código fonte real e não conta como código fonte outras acham conveniente tratar cada arquivo intermediário como código fonte para a próxima etapa
+enquanto faça esta estrutura repete uma seqüência de comandos enquanto uma determinada condição especificada através de uma expressão lógica for satisfeita
+então é chegado o momento de nos determos mais na importante questão conceitual do desempenho algorítmico
+então, conhecendo como cada plataforma funciona, junto com outros critérios, é possível elencar qual delas tende a contribuir mais com a presença online da marca
+entendemos  saída,  como  o  conjunto  de  instruções  que  permitem   a comunicação com o usuário ou a escrita de dados ou de quaisquer outras informações emtela  saída  principal,papel  impressora  ou  em  disco gravação
+entendemos saída, como o conjunto de instruções que permitem a comunicação com o usuário ou a escrita de dados ou de quaisquer outras informações em tela saída principal, papel impressora ou em disco gravação
+entity - declara uma entidade do tipo relacional, como uma tabela, porém é uma classe java
+entrada e saída é um termo utilizado quase que exclusivamente no ramo da computação, indicando entrada de dados por meio de algum código ou programa
+entre as diversas interfaces deste pacote existe a interface connection
+entre as diversas vantagens do padrão mvc estão a possibilidade de reescrita da gui ou do controller sem alterar o nosso modelo
+entre as técnicas usadas estão a substituição de expressões que podem ser avaliadas durante o tempo de compilação pelos seus valores calculados, eliminação de subexpressões redundantes, desmembramento de laços, substituição de operações multiplicação por shifts, entre outras
+entre linguagens que utilizam o modelo de troca de mensagens, erlang é possivelmente a mais utilizada pela indústria atualmente
+entretanto, a maioria dos algoritmos são desenvolvidos para programas de computador, para isto, existe uma grande variedade de linguagens de programação, cada uma com características específicas que podem facilitar a implementação de determinados algoritmos ou atender a propósitos mais gerais
+entretanto, algumas linguagens suportam alocação dinâmica de memória para variáveis locais na pilha de chamada, de forma que o tamanho do quadro duma sub-rotina não seja fixo, variando de acordo com a chamada
+entretanto, ambos os métodos de instância e de classe são resolvidos dinamicamente e não há métodos estáticos
+entretanto, métodos estáticos não podem ser sobrescritos
+entretanto, num projeto, o trabalho de desenvolvimento de algoritmos e programas poderá ter de ser todo refeito se houver problemas nas três primeiras fases, mostrando assim a importância do trabalho do analista de sistemas
+eram caríssimas, portanto incentivaram o uso da compactação dos dados
+erros de compilação : erros de digitação e de uso da sintaxe da linguagem
+erros de execução : erro na lógica do programa algoritmo
+erros de link-edição : erro no uso de bibliotecas de sub-programas necessárias ao programa principal
+escalonador de trabalho entre threads distintas
+escolha nomes de variáveis que sejam significativos, isto é, que traduzam o tipo de informação a ser armazenada na variável 
+esconder cada decisão de projeto a interface com cada módulo é definida de forma a revelar o mínimo possível sobre o seu funcionamento interno 
+esconder ou regular uma parte de um programa, mantendo o restante código alheio às questões internas resolvidas dentro dessa função
+escrever o programa na linguagem de programação escolhida
+escrever testes com junit permite que o programador perca menos tempo depurando seu código
+esforço computacional necessário para alcançar qualquer nó da árvore é proporcional à altura da árvore 
+especificamente para este tipo de vetor, que envolve um conjunto de caracteres, é estabelecida uma expressão que a caracteriza facilmente, sendo está expressão importante na área de informática string ou simplesmente cadeia de caracteres
+especificamente, a gramática estendida eleva um elemento não variável ou uma construção implícita na gramática base para uma variável ou constante, permitindo a utilização do código genéric
+espera-se que com isso ao fim de um período de quatro meses, você tenha adquirido a capacidade de transformar qualquer problema de média complexidade e extensão em um algoritmo de boa qualidade
+espera-se que operações envolvendo tipos primitivos sejam as construções mais rápidas da linguagem
+essa  situação  decorre  de  muitas  origens,  por  exemplo,a  linguagem  bcpl origem do c não obrigava a declaração de uma variável,  antes de usá-la
+essa abordagem é essencial para a implementação de modelos de re-chamada callback, muito utilizados atualmente em bibliotecas de rotinas para manipulação de interfaces gráficas
+essa abordagem facilita muito nosso trabalho por não precisarmos entender o protocolo de cada banco
+essa abordagem para manipulação de memória é chamada de gerenciamento implícito de memória porque não exige a gravação de qualquer código de manipulação de memória
+essa condição deve ser uma expressão booleana e, enquanto ela for verdadeira, esta estrutura continuará executando as instruções contidas no seu corpo
+essa divisão de preocupações ajuda na separação de tarefas e torna as mais específicas
+essa estrutura de dados também é conhecida como variável indexada, vetor para arranjos unidimensionais e matriz para arranjos bidimensionais
+essa estrutura permite acesso aleatório qualquer elemento do vetor pode ser alcançado diretamente, sem passar pelos elementos anteriores o décimo elemento, por exemplo, pode ser alcançado sem que seja necessário passar antes pelo primeiro, segundo, etc, nono elementos
+essa palavra deriva de al-khwarizmi, matemático persa do século ix, a quem se atribui a construção dos primeiros processos para realização de operações aritméticas, o que explica o porquê do nome de um matemático ter sido associado a um processo repetitivo que leva à solução de problemas complexos
+essa separação de camadas ajuda na redução de acoplamento e promove o aumento de coesão nas classes do projeto
+essa situação decorre de muitas origens, por exemplo, a linguagem bcpl origem do c não obrigava a declaração de uma variável, antes de usá-la
+essa situação pode ser comparada a uma simples contagem
+essa situação varia de linguagem para linguagem de programação e mesmo entre autores de algoritmos
+essa técnica de programação é denominada programação modular
+essa técnica é uma forma de encapsulamento, e é útil para dividir tarefas procedimentais em subtarefas que fazem sentido somente localmente
+essa variação tem um uso bastante efetivo na validação de dados de entrada, pelo teclado, mas pode ser sempre substituída por um enquanto
+essas palavras tem significado especial e não podem ser usadas como identificadores em um programa
+essas seriam os principais componentes da primeira geração de computadores, algum tempo mais tarde
+essas soluções padrões tem o nome de design patterns
+esse código fonte é depois traduzido para código de máquina, que é executado pelo microprocessador
+esse comando é utilizado quando não há necessidade de inicializar ou atualizar variáveis contadoras, quando as etapas de inicialização ou atualização requerem muitas instruções e quando as informações necessárias para avaliar a condição não dependem de uma variável contadora ou são obtidas durante a execução do bloco
+esse conjunto de interfaces fica dentro do pacote java ponto sql e nos referiremos a ele como jdbc
+esse dado é atribuído a variável e o computador dá continuidade ao algoritmo
+esse é outro tipo de abstração que simplifica o código externo à hierarquia de classes e permite uma forte separação de interesses
+esse é um processo algorítmico, na medida em que se trata de um processo repetitivo que, ao ser concluído, permite a obtenção do resultado procurado
+esse método é baseado em passar sempre o menor valor do vetor para a primeira posição ou o maior, dependendo da ordem requerida
+esse ponteiro indica a instância associada ao método sendo invocado, sendo essencial para fornecer contexto a execução
+esse tipo de ponteiro é perigoso e sutil, pois um região desalocada de memória pode conter a mesma informação que possuía antes de ser desalocada, mas também pode ser realocada e sobreescrita com informação fora do escopo antigo
+esse tipo de situação jamais ocorrerá em java, pois em java o símbolo fecha a chave impede essa ocorrência
+esse uso de ponteiros nulos pode ser comparado ao uso de valores nulos em bancos de dados relacionais e aos valores nothing e maybe em mónadas da programação funcional
+esses módulos trazem vantagens adicionais para testes, pois testa-se um módulo ou seja, uma parte do programa de cada vez, independentemente
+esta área é utilizada para se fazer a identificação do programa com um nome
+esta área é utilizada para validar o uso de qualquer tipo de identificador que não seja predefinido, estando subdividida em sete sub-áreas: uses, label, const, type, var, procedure e function
+está associado a ela além da condição também chamada expressão de controle ou condição de parada o bloco de código verifica-se a condição, e caso seja verdadeira, o bloco é executado
+esta categoria inclui algoritmos de busca e backtracking
+esta estrutura caracteriza-se por efetuar um teste lógico no final de um looping, sendo parecida com a estrutura whiledo
+esta estrutura de repetição se caracteriza por efetuar um teste lógico no início de um loop, verificando se é permitido executar o trecho de instruções abaixo dela
+esta instrução irá efetuar a execução de um conjunto de instruções pelo menos uma vez antes de verificar a validade da condição estabelecida
+esta operação matemática será realizada pelo model assim que ele receber um pedido do controller
+esta programação dita que o programador deve modelar um dado problema através de assertivas acerca dos objetos do universo de discurso, ou seja, definindo o relacionamento lógico existente entre a cabeça e o corpo da cláusula, e nunca descrevendo como seus procedimentos funcionam
+esta proteção consiste em se usar modificadores de acesso mais restritivos sobre os atributos definidos na classe
+esta raiz pode ser simplesmente um apontador para uma lista ou um apontador para uma primeira célula vazia
+esta representação gráfica do algoritmo é chamada de fluxograma
+esta resposta pode ser síncrona quando o cliente aguarda a resposta do servidor para executar qualquer outra instrução ou assíncrona envolvendo paralelismo de atividades
+esta linguagem de programação de primeira geração não tinha distinção entre código fonte e código de máquina
+estas estruturas de dados são ajeitadas nas situações em que o acesso aos dados seja realizado de forma aleatória e imprevisível
+estas linguagens fazem o computador assimilar cada comando e função de um algoritmo, depois executar cada função
+estas são aquelas que só têm validade dentro do bloco no qual são declaradas
+estas seguem, rigorosamente, postulados matemáticos relacionados às matrizes
+este comando cria a variável nomecliente como um vetor de char com capacidade de armazenamento de sessenta e um caracteres
+este conjunto de estruturas de dados e de controlo constituem formalmente um algoritmo para a resolução de problemas
+este conjunto de palavras que formam linhas de comandos deverá estar dentro da padronização da linguagem escolhida, obedecendo critérios de execução
+este nome vem do fato de que, neste tipo de chamada, não se passa para a função os valores das variáveis
+este paradigma de programação se destaca pela simplicidade, uma vez que todo ser humano, ao se programar, o faz imperativamente, baseado na ideia de ações e estados, quase como um programa de computador
+este subcomitê desenvolveu as especificações da linguagem cobol
+este termo é utilizado para construir uma estrutura de repetição que executa, repetidamente, uma única instrução ou um bloco delas enquanto uma expressão booleana for verdadeira
+este tipo de chamada de função é denominado chamada por valor
+este tipo de chamada de função tem o nome de chamada por referência
+este tipo de dado também e chamado de tipo boleano
+este tipo de estrutura é também chamado de matriz unidimensional um vetor é representado por seu nome, tamanho e seu tipo
+este tipo de rotina embutida é conhecido pelo nome de unidade do inglês, unit
+estes aspectos dos algoritmos são alvo da análise de algoritmos
+estes cinco passos são colectivamente conhecidos como engenharia de software
+estes foram os dois primeiros paradigmas dominantes na programação de computadores
+estes parâmetros serão passados de duas formas: por valor e por referência
+estes são declarados como sendo as entradas de uma função
+estrutura de dados é o fruto do processo sistemático que fez nascer os algoritmos 
+estrutura de repetição nada mais é que laços de repetições
+estrutura de repetição realiza o incremento de um contator de forma implícita
+estrutura de seleção ou de decisão é uma estrutura utilizada na programação para direcionar o código e tomar decisões baseadas no resultado lógico de expressões ou em inputs que um usuário dê para o programa
+estrutura de seleção expressão condicional ou ainda construção condicional é, na ciência da computação, uma estrutura de desvio do fluxo de controle presente em linguagens de programação que realiza diferentes computações ou ações dependendo se a seleção ou condição é verdadeira ou falsa, em que a expressão é processada e transformada em um valor booleano 
+estruturalmente a linguagem java começa com pacotes
+estruturas de controle lógico estão disponíveis em cobol que faz com que seja mais fácil de ler e modificar
+estruturas de dados e algoritmos estão intimamente ligados
+estruturas de dados não primitivas ou complexas representam estruturas de informação em conjuntos formados por estruturas de dados primitivas logicamente relacionados
+estruturas de dados primitivas esta secção apresenta em conjunto de exemplos simples representativos de tipos de estruturas de dados primitivos tipo booleano ou binário, tipo numérico inteiros e reais e tipo alfanumérico para o tratamento de cadeias de caracteres e consequente tratamento de texto
+estruturas de dados primitivas são diretamente manipuladas em linguagem máquina binária
+estruturas de decisão: onde, a partir de um teste lógico, determinado trecho de código é executado, ou não
+estruturas de iteração: onde, a partir de um teste lógico, determinado trecho de código é repetido por um número finito de vezes
+estruturas de repetição são formas e estruturas organizadas de fazer com que um computador consiga tomar decisões ou executar diversas vezes uma instrução até que um limite pré-estabelecido seja atingido
+estruturas de repetição são formas e estruturas organizadas de fazer com que um computador consiga tomar decisões ou executar diversas vezes uma instrução até que um limite pré-estabelecido seja atingido, ou uma condição seja satisfeita, ou o usuário intervenha
+estruturas de repetição são muito comuns as situações em que se deseja repetir um determinado trecho de um programa um certo número de vezes 
+estruturas de repetição são recursos da linguagem de programação que permitem que um conjunto de instruções sejam executadas repetidas vezes
+estruturas de sequência: onde uma tarefa é executada após a outra, linearmente
+estruturas lineares são estruturas em que cada elemento pode ter um único predecessor pilhas, arranjos, filas e listas
+estruturas não lineares apresentam cada elemento podendo ter mais de um predecessor ou sucessor grafos e as árvores
+exato ou aproximado enquanto alguns algoritmos encontram uma resposta exata, algoritmos de aproximação procuram uma resposta próxima a verdadeira solução, seja através de estratégia determinística ou aleatória
+execução sequencial de procedimentos
+exemplos clássicos são algoritmos de busca, de ordenação, de análise numérica, de teoria de grafos, de manipulação de cadeias de texto, de geometria computacional, de análise combinatória, de aprendizagem de máquina, de criptografia, de compressão de dados e de interpretação de texto
+existe ainda o tipo char, utilizado da mesma forma que o tipo string, porém com uma pequena diferença: é usado para strings de apenas um caracter
+existe o visualg, um aplicativo simples, em português, que vai testar todos os seus algoritmos e conhecimentos de lógica de programação
+existe um pilha de chamada para cada thread sendo executada, ainda que mais pilhas possam ser criadas para o tratamento de sinais ou para multitarefa cooperativa
+existe uma técnica denominada teste de mesa que permite a simulação do processo de interpretação de um algoritmo utilizando apenas um papel e uma caneta
+existem algoritmos para pesquisa e ordenação para as mais variadas estruturas de dados
+existem algoritmos que já fazem parte de conselhos de empresas
+existem alguns softwares disponíveis que efetuam a interpretação de algoritmos representados em pseudocódigos ou em fluxogramas
+existem annotations com vários pair values valores diferentes que são separados por vírgula, que contenham apenas um valor ou simplesmente nenhum valor
+existem as estruturas de repetição, que permitem que você execute estas tarefas de forma mais simplificada
+existem atualmente mais de 60 anotações
+existem casos em que um procedimento ou função chama a si próprio
+existem diversas formas de escrever um algoritmo, podendo ser citadas o pseudocódigo ou português estruturado, fluxograma, com linguagem de programação, como java e c, dentre outros
+existem diversas formas de escrever um algoritmo, podendo ser citadas o pseudocódigo ou português estruturado, fluxograma, diagrama de chapin e descrição narrativa
+existem diversas técnicas que ajudam no desenvolvimento de algoritmos facilitando seu entendimento para as pessoas
+existem dois tipos de estruturas dentro do universo das estruturas de dados estruturas lineares e não lineares
+existem duas formas de ler o valor de um atributo de um objeto json
+existem limites inferiores naturais como o tamanho da entrada 
+existem linguagens que são compiladas e as que são interpretadas
+existem muitos compiladores mainframe utilitários disponíveis para compilar um programa em cobol
+existem muitos emuladores grátis mainframe está disponível para windows que pode ser usado para escrever e aprender cobol
+existem situações onde é necessário repetir um determinado trecho de um programa um certo número de vezes
+existem também estruturas de dados que trabalham com dados heterogêneos, como as listas que apresentam todos os seus elementos de tipos diferentes basicamente
+existem três níveis de visibilidade pública onde as funções de todas as classes podem acessar os dados ou os métodos de uma classe definida com o nível público de visibilidade
