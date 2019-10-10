@@ -1,3 +1,39 @@
-Os alunos podem fazer uma pergunta com uma voz trêmula na frente de seus colegas e professores ou podem enviar e-mail e esperar horas ou dias por uma resposta
+﻿História: 
+- [PROBLEMA]Eu no ensino fundamental e médio, dificuldade em inglês, não entendia o básico, não acompanhava a turma, o professor não me dava atenção individual por que tinha muita matéria para dar e muitos alunos para ouvir e eu tinha vergonha, falava com a voz trêmula na frente dos meus colegas como medo de sofrer zombaria.
 
-Professores de todos os níveis podem ter centenas de alunos que ensinam em um único dia. Eles têm a tarefa de educar cada um deles. Infelizmente, quando esses alunos têm perguntas e estão fora da sala de aula, podem ter dificuldade em obter respostas. Os professores estão simplesmente ocupados demais classificando documentos e planejando que a turma esteja continuamente disponível para consultas de alunos de campo. É aqui que entram os chatbots.
+- [SOLUÇÃO]E se eu tivesse um professor só pra mim, que me respondesse sempre que eu pudesse e não zombasse das minhas dúvidas simples e tivesse paciência pra repetir tudo que eu precisasse?
+
+
+Mercado:
+- O tamanho do mercado do chatbot é estimado em cerca de 994 milhões
+- Mercado de Chatbot atingirá US$ 10,08 bilhões até 2026 - Tamanho do mercado de Chatbot - US $ 1,17 bilhão em 2018
+
+
+Solução:
+- Emma. 
+- Teste.
+
+
+Público alvo:
+- Aluno: que usufrui diretamente, fazendo as perguntas
+- Professor: vê os alunos cadastrados, os remove, os muda de disciplina, e pode contratar a nossa plataforma para ter um professor complementar às suas aulas
+- instituição: contrataria a nossa plataforma para fornecê-la a todos os professores como uma ferramenta de aula.
+
+
+Concorrentes:
+- Bom... mas qual o nosso diferencial? 
+
+Diferencial:
+- voz
+- mobile
+- material puramente educacional e didático
+
+Modelo de negócio:
+- preço
+- planos
+
+Atualmente:
+- Não está pronto, mas preparado para atender. Pois queremos trabalhar com cloud as a service.
+
+Futuro:
+- Empresas: por enquanto vimos que nossos clientes estão na área da educação. Mas e as áras comerciais? Queremos ampliar para eles também. Como seria? Todas as empresas tanto recebem novos colaboradores como fornece novos treinamentos. O chatbot realizaria o serviço de auxiliar os novos colaboradores sobre como funciona toda a empresa tirando todas sua dúvidas. E os treinamentos de capacitação seriam aplicados pelo nosso chatbot.
